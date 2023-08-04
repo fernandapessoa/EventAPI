@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace SalesAPI.DTO
+namespace EventAPI.DTO
 {
     public class EventDto
     {

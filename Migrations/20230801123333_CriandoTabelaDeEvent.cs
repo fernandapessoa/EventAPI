@@ -3,7 +3,7 @@ using MySql.EntityFrameworkCore.Metadata;
 
 #nullable disable
 
-namespace CSharp___API.Migrations
+namespace EventAPI.Migrations
 {
     /// <inheritdoc />
     public partial class CriandoTabelaDeEvent : Migration

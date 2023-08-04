@@ -1,8 +1,8 @@
 ﻿using AutoMapper;
-using SalesAPI.DTO;
-using SalesAPI.Models;
+using EventAPI.DTO;
+using EventAPI.Models;
 
-namespace SalesAPI.Profiles
+namespace EventAPI.Profiles
 {
     public class EventProfile : Profile
     {

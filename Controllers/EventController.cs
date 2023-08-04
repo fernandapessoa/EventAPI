@@ -1,10 +1,10 @@
-﻿using SalesAPI.Models;
+﻿using EventAPI.Models;
 using Microsoft.AspNetCore.Mvc;
-using SalesAPI.Data;
-using SalesAPI.DTO;
+using EventAPI.Data;
+using EventAPI.DTO;
 using AutoMapper;
 
-namespace SalesAPI.Controllers
+namespace EventAPI.Controllers
 {
     [ApiController]
     [Route("[controller]")] //aqui é a rota. Passando o [controller] se refere a EventController

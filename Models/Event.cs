@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace SalesAPI.Models
+namespace EventAPI.Models
 {
     public class Event
     {

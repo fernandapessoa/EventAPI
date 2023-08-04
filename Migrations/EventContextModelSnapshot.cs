@@ -2,11 +2,11 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using SalesAPI.Data;
+using EventAPI.Data;
 
 #nullable disable
 
-namespace CSharp___API.Migrations
+namespace EventAPI.Migrations
 {
     [DbContext(typeof(EventContext))]
     partial class EventContextModelSnapshot : ModelSnapshot

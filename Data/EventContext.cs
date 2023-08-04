@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using SalesAPI.Models;
+using EventAPI.Models;
 
-namespace SalesAPI.Data
+namespace EventAPI.Data
 {
     public class EventContext : DbContext //Contexto que se comunica entre o bd e a api
     {
