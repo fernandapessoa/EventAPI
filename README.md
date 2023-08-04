@@ -1,4 +1,6 @@
 # EventAPI
 
-API desenvolvida em C# .NET.  
+API em C# .NET.  
+Ainda em desenvolvimento
+
 
